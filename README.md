@@ -1,3 +1,1 @@
-# Lab-Acts
-# BRUH MEMA
-hu
+Will add javascript soon
